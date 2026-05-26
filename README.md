@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jeffinho Teles
 
-### 🚀 Desenvolvedor Full Stack | Automações | Integrações | Soluções Web
+### 🚀 Desenvolvedor | Automações | Integrações | Soluções Web
 
 Desenvolvedor Full Stack com experiência em **automações, integrações e desenvolvimento de aplicações web**.
 
