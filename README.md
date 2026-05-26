@@ -1,52 +1,95 @@
 # 👋 Olá, eu sou o Jeffinho Teles
 
-### 🚀 Desenvolvedor | Automações | Integrações | Soluções Web
+### 🚀 Desenvolvedor Full Stack | Automações | Integrações | Soluções Web
 
-Sou desenvolvedor apaixonado por tecnologia e resolução de problemas através de software.
+Desenvolvedor Full Stack com experiência em **automações, integrações e desenvolvimento de aplicações web**.
 
-Atualmente atuo no desenvolvimento e evolução de **sistemas web, integrações, automações de processos e aplicações Full Stack**, trabalhando com **JavaScript, Node.js, React, bancos de dados, APIs REST e automações** para otimizar fluxos e resolver problemas reais de negócio.
+Atualmente atuando com **JavaScript, Node.js, React, APIs REST, bancos de dados e automação de processos**, desenvolvendo soluções para otimização de fluxos, integrações entre sistemas e resolução de problemas reais.
 
-Tenho grande interesse em **automação, arquitetura de aplicações, integrações entre sistemas e desenvolvimento escalável**.
+Tenho interesse em **arquitetura de software, automações inteligentes, backend moderno e aplicações escaláveis**.
+
+---
 
 ## 💻 Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+
 </p>
+
+---
 
 ## 🔥 Atualmente estudando e construindo
 
 - 🤖 Automações com Playwright + n8n
 - ⚙️ APIs REST com Node.js
-- 🛢️ MongoDB & Banco de Dados
+- 🛢️ MongoDB & Modelagem de Dados
 - ⚛️ React & aplicações modernas
 - 🔄 Integrações entre sistemas
 - 📊 Exportação de dados e relatórios
 - 🧠 Soluções para automação de processos
 
-## 🚀 Projetos & Interesses
+---
 
-🔹 Sistemas web Full Stack  
-🔹 Automações inteligentes  
-🔹 Integrações acadêmicas e corporativas  
-🔹 APIs e regras de negócio  
-🔹 Otimização de processos
+## 🚀 Interesses
+
+- Sistemas Web Full Stack
+- Automações Inteligentes
+- Integrações entre sistemas
+- Backend moderno
+- Arquitetura de Software
+- Soluções escaláveis
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffinhoTeles&show_icons=true&theme=dracula)
+<p align="center">
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffinhoTeles&layout=compact&theme=dracula)
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=JeffinhoTeles&show_icons=true&theme=tokyonight&cache_seconds=1800"
+/>
 
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=JeffinhoTeles&theme=dracula)
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffinhoTeles&layout=compact&theme=tokyonight&cache_seconds=1800"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=JeffinhoTeles&theme=tokyonight"
+/>
+
+</p>
+
+---
 
 ## 🌎 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jefferson%20Teles-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-teles-003186111/)
+<p align="left">
 
-📧 jefferson-teles26@hotmail.com
+<a href="mailto:jefferson-teles26@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-Jeffinho-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jefferson-teles-003186111/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Jefferson%20Teles-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
