@@ -57,17 +57,7 @@ Tenho interesse em **arquitetura de software, automações inteligentes, backend
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffinhoTeles&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffinhoTeles&layout=compact&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JeffinhoTeles&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com?user=JeffinhoTeles&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
